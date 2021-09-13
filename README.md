@@ -1,1 +1,1 @@
-# FYP-Accelerated-MRI-Scanning
+# Final Year Project: Accelerated-MRI-Scanning
